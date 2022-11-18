@@ -1,6 +1,7 @@
 Hi! I'm Sérgio and I'm a:
 - 🚗 Random guy working on LiDAR perception for Autonomous Vehicles.
 - 📉 PhD student in correspondence-based pose estimation and geometric deep learning.
+- 🤖 Huge fan of home automation and the [self-hosted](https://www.reddit.com/r/selfhosted/) lifestyle
 - ☁️ Ex-[Point Cloud Library](https://github.com/PointCloudLibrary/pcl) maintainer.
 - 🎹 Music enthusiast.
 
